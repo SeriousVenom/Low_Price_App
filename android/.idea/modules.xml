@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1373631582/android.flutter_webview_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1373631582/android.flutter_webview_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1156951661/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1156951661/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1535218591/android.path_provider_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-1535218591/android.path_provider_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-879170400/android.path_provider_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-879170400/android.path_provider_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1717735760/android.path_provider_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/-1717735760/android.path_provider_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1081098152/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1081098152/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1253542358/android.url_launcher_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/1253542358/android.url_launcher_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1909590549/android.url_launcher_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/1909590549/android.url_launcher_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1483038326/android.url_launcher_web.iml" filepath="$PROJECT_DIR$/.idea/modules/1483038326/android.url_launcher_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1778056475/android.url_launcher_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/-1778056475/android.url_launcher_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-351651013/android.webview_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-351651013/android.webview_flutter.iml" />
+    </modules>
+  </component>
+</project>
